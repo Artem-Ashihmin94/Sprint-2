@@ -9,4 +9,4 @@
 
 Для создания файловой структуры использовали методологию БЭМ (css и html)
 
-![Иллюстрация к проекту](https://github.com/Artem-Ashihmin94/sprint-2/img/main.png)
+![Иллюстрация к проекту](img/main.png)
