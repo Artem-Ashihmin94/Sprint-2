@@ -7,12 +7,14 @@
 **В проектной работе были использованы технологии:** 
 * flexbox 
 * animation (с помощью анимаций были анимированы 2 блока, которым задали равномерное, линейное вращение)
-* iframe (добавлены видео из youtube)  
-<https://www.youtube.com/watch?v=arj7oStGLkU> 
+* iframe (на страницу добавлены видео из youtube)  
+<https://www.youtube.com/watch?v=arj7oStGLkU>   
 <https://www.youtube.com/watch?v=5MgBikgcWnY)>
 
 
 К `CSS` мы применили основные принципы организации и хранения кода методологии БЭМ:
+
+![файловая структура БЭМ](img/CSSbam.png)
 
 ```CSS
 @import url('../blocks/header/header.css');
