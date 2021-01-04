@@ -1,0 +1,15 @@
+.footer__column-link {
+    /*стили для всех ссылок футера*/
+    text-decoration: none;
+    color: white;
+    line-height: 30px;
+    font-size: 18px;
+    vertical-align: middle;
+    display: inline-block;
+    opacity: 0.6;
+    transition: opacity 0.2s linear;
+}
+
+.footer__column-link:hover {
+    opacity: 1;
+}
