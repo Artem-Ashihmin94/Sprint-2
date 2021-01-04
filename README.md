@@ -8,8 +8,8 @@
 * flexbox 
 * animation (с помощью анимаций были анимированы 2 блока, которым задали равномерное, линейное вращение)
 * iframe (на страницу добавлены видео из youtube)  
-    -<https://www.youtube.com/watch?v=arj7oStGLkU>   
-    -<https://www.youtube.com/watch?v=5MgBikgcWnY)>
+    - <https://www.youtube.com/watch?v=arj7oStGLkU>   
+    - <https://www.youtube.com/watch?v=5MgBikgcWnY)>
 
 ![iframe](img/iframeVideo.png)
 
