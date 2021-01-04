@@ -11,7 +11,24 @@
 <https://www.youtube.com/watch?v=arj7oStGLkU>   
 <https://www.youtube.com/watch?v=5MgBikgcWnY)>
 
+![iframe](img/iframeVideo)
 
+```CSS
+ <div class="video__iframes">
+                    <div class="video__iframe">
+                        <iframe width="515" height="316" src="https://www.youtube.com/embed/arj7oStGLkU" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                        allowfullscreen></iframe>
+                    </div>
+                    <div class="video__iframe">
+                        <iframe width="515" height="316" src="https://www.youtube.com/embed/5MgBikgcWnY" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                        allowfullscreen></iframe>
+                    </div>
+```
+
+
+## Файловая структура
 К `CSS` мы применили основные принципы организации и хранения кода методологии БЭМ:
 
 ![файловая структура БЭМ](img/CSSbam.png)
